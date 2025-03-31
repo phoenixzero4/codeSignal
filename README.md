@@ -1,1 +1,1 @@
-# codeSignal
+# CodeSignal
